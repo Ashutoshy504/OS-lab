@@ -1,0 +1,4 @@
+Date-10Sep2020
+Experiment1-Implement Binary and counting semaphore.
+Experiment2-Implement Peterson’s Algorithm in Process Synchronization using multi-processor fork() system call.
+Experiment3-Demonstrate the race condition using fork() system call.
